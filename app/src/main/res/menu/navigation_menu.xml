@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.admin.educationforsocity.NavigationMenu">
+  <item android:id="@+id/log"
+        android:title="Login" />
+    <item android:id="@+id/op"
+        android:title="Open" />
+    <item android:id="@+id/clo"
+        android:title="Close" />
+
+</menu>
